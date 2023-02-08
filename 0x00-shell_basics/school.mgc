@@ -1,2 +1,1 @@
 $ file -i -m .mgc *
-$ file -C -m .mgc
